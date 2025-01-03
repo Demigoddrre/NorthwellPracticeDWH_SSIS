@@ -1,5 +1,3 @@
-Here's the main README for your SSIS project in Visual Studio Community:
-
 ---
 
 # **NorthwellPracticeDWH_SSIS Project**
